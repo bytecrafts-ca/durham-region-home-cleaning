@@ -1,3 +1,3 @@
-# Durham Region Home Cleaning Guide
+# Durham Home Care
 
-Local comparison guide · https://bytecrafts-ca.github.io/durham-region-home-cleaning/
+https://bytecrafts-ca.github.io/durham-region-home-cleaning/
