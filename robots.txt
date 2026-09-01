@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bytecrafts-ca.github.io/durham-region-home-cleaning/sitemap.xml
